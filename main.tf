@@ -8,5 +8,5 @@ tags = {
 }
 }
 variable "components"{
-    dafault = ["frontend","postgresql","portfolio-service","analaytics-services","Auth-service"]
+    default = ["frontend","postgresql","portfolio-service","analaytics-services","Auth-service"]
 }
